@@ -11,12 +11,13 @@
 
 Well, I've been asking myself that for a long time. 🤣  
 Jokes aside, I'm a **business and data analyst** 📈 with a knack for crunching numbers like they’re potato chips and solving business mysteries with my Master's degree in Economics and Finance (with a side of top-notch grades).🎓  
-I love turning data into stories and deciphering business enigmas! 🔍  
+I love turning data into stories and deciphering business enigmas! 🔍
 <p style="margin-top: 100px;">
   
 ## 🪄 Analytical Wizardry
 Let's be honest here: I may not code like a pro and sometimes my code can get a bit messy at times. But one thing is always clear: the data-driven insights from my analysis are always spot-on. 🎯  
-From R and SQL to Excel and Python, I have a pretty loaded toolbox at my disposal. Plus, my understanding of statistics and business adds an extra layer of analytical finesse.
+From R and SQL to Excel and Python, I have a pretty loaded toolbox at my disposal. Plus, my understanding of statistics and business adds an extra layer of analytical finesse.  
+Don't believe my words? **[Check my repos](https://github.com/Lulloooo?tab=repositories) 🗂️**
 <p style="margin-top: 100px;">
   
 ## 🧠 Tech Toolkit
