@@ -3,18 +3,10 @@
   
 # 🤔 Who am I?
 
-<a href="mailto:lucagabri98@live.it">
-  <img src="https://img.shields.io/badge/lucagabri98-c71610?style=flat&logo=gmail&logoColor=white" width="110">
-</a>
-<a href="la-databizanalyst">
-  <img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="60">
-</a>
-<a href="vizzes"> 
-  <img src="https://img.shields.io/badge/%40eldiezzz-orange?style=flat&logo=tableau&logoColor=white" width="100">
-</a>
-<a href="https://www.instagram.com/eldiezzz">
-  <img src="https://img.shields.io/badge/%40eldiezzz-e1306c?style=flat&logo=instagram&logoColor=white" width="100">
-</a>
+<a href="mailto:lucagabri98@live.it"><img src="https://img.shields.io/badge/lucagabri98-c71610?style=flat&logo=gmail&logoColor=white" width="110"></a>
+<a href="la-databizanalyst"><img src="https://img.shields.io/badge/%40LA-0E76A8?style=flat&logo=linkedin&logoColor=white" width="60"></a>
+<a href="vizzes"><img src="https://img.shields.io/badge/%40eldiezzz-orange?style=flat&logo=tableau&logoColor=white" width="100"></a>
+<a href="https://www.instagram.com/eldiezzz"><img src="https://img.shields.io/badge/%40eldiezzz-e1306c?style=flat&logo=instagram&logoColor=white" width="100"></a>
 <p style="margin-top: 100px;">
 
 Well, I've been asking myself that for a long time. 🤣  
