@@ -34,7 +34,7 @@ Prepare to be dazzled by out-of-the-box analysis and data visualizations that ar
 If it sparks  my interest ✨, you can bet I'll analyze it to bits! Some stuffs that tickle my fancy are:
 
 - 💸 Finance & Economics (Because who doesn't love crunching numbers and talking markets?) 💸
-- ♻️ Environemnt & the Green Sector (Saving the planet, one dataset at a time!) ♻️
+- ♻️ Sustainability, Environemnt & the Green Sector (Saving the planet, one dataset at a time!) ♻️
 - 💻 Technology (Gadgets, gizmos, and all things tech—bring it on!) 💻
 - 🕹️ Videogames (spoiler: I am a really bad at these) 🕹️
 - 🎧 Hip-Hop Music 🎧
