@@ -1,4 +1,4 @@
-<img width="1000" alt="Lullo_DataAnalyst" src="https://github.com/Lulloooo/Lulloooo/assets/154634589/0a27170a-aebb-4cff-be86-1aad937c00f1">
+<img width="1000" alt="Lullo_BizDataAnalyst" src="https://github.com/user-attachments/assets/2deab735-d7b9-4f47-ae5d-b924640d04db">
 <p style="margin-top: 100px;">
   
 # 🤔 Who am I?
