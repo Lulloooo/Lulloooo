@@ -17,7 +17,6 @@ I love turning data into stories and deciphering business enigmas! 🔍
 ## 🪄 Analytical Wizardry
 Let's be honest here: I may not code like a pro and sometimes my code can get a bit messy at times. But one thing is always clear: the data-driven insights from my analysis are always spot-on. 🎯  
 From R and SQL to Excel and Python, I have a pretty loaded toolbox at my disposal. Plus, my understanding of statistics and business adds an extra layer of analytical finesse.  
-Don't believe my words? **[Check my repos](https://github.com/Lulloooo?tab=repositories) 🗂️**
 <p style="margin-top: 100px;">
   
 ## 🧠 Tech Toolkit
@@ -28,6 +27,7 @@ Don't believe my words? **[Check my repos](https://github.com/Lulloooo?tab=repos
 ## 🎨 Creative Analysis with a dash of Humor
 Who says data can't be fun?  
 Prepare to be dazzled by out-of-the-box analysis and data visualizations that are as beautiful as they are informative. Remember to be always ready for some quirky commentary and the occasional data-driven joke to keep things light. 😜  
+Still on the fence❓Check my **[BizData-Nexus](https://github.com/Lulloooo/BizData-Nexus.git)** 📊
 
 ### 🔝 What I'm Into
 
@@ -41,7 +41,12 @@ If it sparks  my interest ✨, you can bet I'll analyze it to bits! Some stuffs 
 - ⚽️ Sports, especially football (like a true Italian) ⚽️
 - 💬 Coffee chats and being around people (that’s one thing I can’t quite analyze, I love it tho) 💬
 <p style="margin-top: 100px;">
-  
+
+## 🤖 Coding Adventures 
+I know, someone could find coding boring. Well, for me it is like an adventure 🗺️  
+Whether I’m tinkering with a new language, solving a fun problem, or just trying to automate something in my life, you'll find those adventures in my **[Coding-Projects-Hub](https://github.com/Lulloooo/Coding-Projects-Hub.git) 📁**  
+I might not be a full-fledged developer, but I genuinely enjoy diving into code from time to time. Lucky for me, I love challenges 💪🏼
+
 ## 👥 Geek Out with me
 Whether you are a fellow data analyst, a finance guru or just someone who shares my passions' cocktail, I'd love to **[connect with you](https://www.linkedin.com/in/la-databizanalyst/) 🤝🏼**   
 We can collaborate, dive into data discussions or simply debate about the next UEFA World Cup winner or this year's GOTY.🏆   
