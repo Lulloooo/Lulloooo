@@ -45,11 +45,18 @@ If it sparks  my interest ✨, you can bet I'll analyze it to bits! Some stuffs 
 ## 🤖 Coding Adventures 
 I know, someone could find coding boring. Well, for me it is like an adventure 🗺️  
 Whether I’m tinkering with a new language, solving a fun problem, or just trying to automate something in my life, you'll find those adventures in my **[Coding-Projects-Hub](https://github.com/Lulloooo/Coding-Projects-Hub.git) 📁**  
-I might not be a full-fledged developer, but I genuinely enjoy diving into code from time to time. Lucky for me, I love challenges 💪🏼
+I might not be a full-fledged developer, but I genuinely enjoy diving into code from time to time. Lucky for me, I love challenges 💪🏼  
+<p style="margin-top: 100px;">
 
-## 👥 Geek Out with me
+## 🗞️ Some Articles... Here and There
+I love talking about things. Sometimes, I even write about them. And on rare occasions, what I’ve written gets published somewhere 📰  
+It could be an article for a newspaper, an NGO’s annual report, or a think tank paper, but you can bet it will be awarded its **own repo 🗂️** on my [GitHub profile](https://github.com/Lulloooo?tab=repositories) 🐈‍⬛  
+Just check the titles (_i.e. the repo name_), choose the ones that intrigue you most, and dive into the corresponding repo. You'll find the final article 📝, information on where it was published 📰, and, where possible, the analysis code 🔢  
+The fun part? You might stumble upon something interesting 💡
+
+# 👥 Geek Out with me
 Whether you are a fellow data analyst, a finance guru or just someone who shares my passions' cocktail, I'd love to **[connect with you](https://www.linkedin.com/in/la-databizanalyst/) 🤝🏼**   
 We can collaborate, dive into data discussions or simply debate about the next UEFA World Cup winner or this year's GOTY.🏆   
 Prefer the old-school way? Feel free to **[hit my mailbox](mailto:lucagabri98@live.it) 📩**  
 
-**Let's serve data perfectly cooked 😎**
+### Let's serve data perfectly cooked 😎
