@@ -25,8 +25,10 @@ From R and SQL to Excel and Python, I have a pretty loaded toolbox at my disposa
 # 📦 What's in the box?
 
 ## 🎨 Creative Analysis with a dash of Humor
+  
 Who says data can't be fun?  
-Prepare to be dazzled by out-of-the-box analysis and data visualizations that are as beautiful as they are informative. Remember to be always ready for some quirky commentary and the occasional data-driven joke to keep things light. 😜  
+Prepare to be dazzled by out-of-the-box analysis and data visualizations that are as beautiful as they are informative. Remember to be always ready for some quirky commentary and the occasional data-driven joke to keep things light. 😜   
+  
 Still on the fence❓Check my **[BizData-Nexus](https://github.com/Lulloooo/BizData-Nexus.git)** 📊
 
 ### 🔝 What I'm Into
@@ -42,8 +44,10 @@ If it sparks  my interest ✨, you can bet I'll analyze it to bits! Some stuffs 
 - 💬 Coffee chats and being around people (that’s one thing I can’t quite analyze, I love it tho) 💬
 <p style="margin-top: 100px;">
 
-## 🤖 Coding Adventures 
+## 🤖 Coding Adventures  
+  
 I know, someone could find coding boring. Well, for me it is like an adventure 🗺️  
+  
 Whether I’m tinkering with a new language, solving a fun problem, or just trying to automate something in my life, you'll find those adventures in my **[Coding-Projects-Hub](https://github.com/Lulloooo/Coding-Projects-Hub.git) 📁**  
 I might not be a full-fledged developer, but I genuinely enjoy diving into code from time to time. Lucky for me, I love challenges 💪🏼  
 <p style="margin-top: 100px;">
@@ -51,12 +55,15 @@ I might not be a full-fledged developer, but I genuinely enjoy diving into code 
 ## 🗞️ Some Articles... Here and There
 I love talking about things. Sometimes, I even write about them. And on rare occasions, what I’ve written gets published somewhere 📰  
 It could be an article for a newspaper, an NGO’s annual report, or a think tank paper, but you can bet it will be awarded its **own repo 🗂️** on my [GitHub profile](https://github.com/Lulloooo?tab=repositories) 🐈‍⬛  
-Just check the titles (_i.e. the repo name_), choose the ones that intrigue you most, and dive into the corresponding repo. You'll find the final article 📝, information on where it was published 📰, and, where possible, the analysis code 🔢  
+  
+Just check the titles (_i.e. the repo name_), choose the ones that intrigue you most, and dive into the corresponding repo. You'll find the final article 📝, information on where it was published 📰, and, where possible, the analysis code 🔢   
+  
 The fun part? You might stumble upon something interesting 💡
 
 # 👥 Geek Out with me
 Whether you are a fellow data analyst, a finance guru or just someone who shares my passions' cocktail, I'd love to **[connect with you](https://www.linkedin.com/in/la-databizanalyst/) 🤝🏼**   
-We can collaborate, dive into data discussions or simply debate about the next UEFA World Cup winner or this year's GOTY.🏆   
+We can collaborate, dive into data discussions or simply debate about the next UEFA World Cup winner or this year's GOTY.🏆  
+  
 Prefer the old-school way? Feel free to **[hit my mailbox](mailto:lucagabri98@live.it) 📩**  
 
 ### Let's serve data perfectly cooked 😎
