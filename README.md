@@ -10,6 +10,7 @@
 <p style="margin-top: 100px;">
 
 Well, I've been asking myself that for a long time. 🤣  
+  
 Jokes aside, I'm a **business data scientist** 📈 with a knack for crunching numbers like they’re potato chips and solving business mysteries equipped with my Master's degree in Economics and Finance (with a side of top-notch grades).🎓  
 I love turning data into stories and deciphering business enigmas! 🔍
 <p style="margin-top: 100px;">
